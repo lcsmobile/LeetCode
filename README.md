@@ -8,7 +8,7 @@
 
 2组：107
 
-3组：290
+3组：290 [290-word-pattern](detail/290-word-pattern.md)
 
 4组：208
 
