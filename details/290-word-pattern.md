@@ -69,3 +69,39 @@ func wordPattern(_ pattern: String, _ str: String) -> Bool {
     }
 ```
 
+## JAVA代码  
+
+思路同Swift
+
+```Java
+class Solution {
+    public boolean wordPattern(String pattern, String str) {
+         if(pattern.length()!=str.split(" ").length) return false;
+
+        String[] array = str.split(" ");
+
+        StringBuilder result = new StringBuilder();
+        HashMap<Character, String> map = new HashMap<>();
+        HashMap<String, String> mapWord = new HashMap<>();
+
+        for(int i=0;i<pattern.length();i++){
+            map.put(pattern.charAt(i), array[i]);
+            mapWord.put(array[i], array[i]);
+        }
+
+
+        if(map.keySet().size()!=mapWord.keySet().size()){
+            return false;
+        }
+
+        for (int i = 0; i < pattern.length(); i++) {
+            if(i!=pattern.length()-1){
+                result.append(map.get(pattern.charAt(i))).append(" ");
+            }else {
+                result.append(map.get(pattern.charAt(i)));
+            }
+        }
+        return str.equals(result.toString());
+    }
+}
+```
