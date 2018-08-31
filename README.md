@@ -4,7 +4,7 @@
 
 #### 8.24第一次
 
-1组：162
+1组：162 [162-findPeakElement](details/162-findPeakElement.md)
 
 2组：107
 
@@ -14,7 +14,7 @@
 
 #### 8.31第二次
 
-1组：873
+1组：873  [873-lenLongestFibSubseq](details/873-lenLongestFibSubseq.md)
 
 2组：698
 
