@@ -16,7 +16,7 @@
 
 1组：873  [873-lenLongestFibSubseq](details/873-lenLongestFibSubseq.md)
 
-2组：698
+2组：698 [698-Partition-to-K-Equal-Sum-Subsets](details/698-Partition-to-K-Equal-Sum-Subsets.md)
 
 3组：848 [848-字母移位](details/848-字母移位.md)
 
