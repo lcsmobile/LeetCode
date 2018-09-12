@@ -18,7 +18,7 @@
 
 2组：516  [516-最长回文子序列](details/516/516.最长的回文子序列.md)
 
-3组：496 
+3组：496 [496-下一个更大元素](details/496-下一个更大元素-I.md)
 
 4组：91 [91-numDecodingst](details/91-numDecodingst.md)
 
@@ -37,7 +37,7 @@
 
 1组：162 [162-findPeakElement](details/162-findPeakElement.md)
 
-2组：107
+2组：107 [107-二叉树的层次遍历](details/107-二叉树的层次遍历.md)
 
 3组：290 [290-word-pattern](details/290-word-pattern.md)
 
