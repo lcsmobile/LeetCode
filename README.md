@@ -20,7 +20,7 @@
 
 3组：496 
 
-4组：91
+4组：91 [91-numDecodingst](details/91-numDecodingst.md)
 
 #### 2018.08.31第2次
 
